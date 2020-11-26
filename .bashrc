@@ -1,3 +1,3 @@
 alias tf="tail -F"
-alias ll="ls -la"
+alias ll="ls -lah"
 alias r="rsync -a"
